@@ -21,4 +21,6 @@ Kullanımı
 <?php
 
 include 'class.php';
+
+?>
 ```
